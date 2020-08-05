@@ -1,5 +1,4 @@
-import styled from "styled-components";
-import styles from 'styled-components'
+import styled from 'styled-components'
 
 // SL -> Server List
 // SN -> Server Name

@@ -3,15 +3,15 @@ import React from 'react'
 import { Grid } from './styles'
 import ServerList from '../ServerList'
 import ServerName from '../ServerName'
+import ChannelInfo from '../ChannelInfo'
 
 const Layout: React.FC = () => {
   return (
-    <div>
-      <Grid>
-        <ServerList />
-        <ServerName />
-      </Grid>
-    </div>
+    <Grid>
+      <ServerList />
+      <ServerName />
+      <ChannelInfo />
+    </Grid>
   )
 }
 
