@@ -55,7 +55,7 @@ export const Icons = styled.div`
 
 export const MicIcon = styled(Mic)`
   width: 20px;
-  height: 20ex;
+  height: 20px;
 
   color: var(--white);
   opacity: 0.7;
@@ -70,7 +70,7 @@ export const MicIcon = styled(Mic)`
 
 export const HeadphoneIcon = styled(Headset)`
   width: 20px;
-  height: 20ex;
+  height: 20px;
 
   color: var(--white);
   opacity: 0.7;
@@ -85,7 +85,7 @@ export const HeadphoneIcon = styled(Headset)`
 
 export const SettingsIcon = styled(Settings)`
   width: 20px;
-  height: 20ex;
+  height: 20px;
 
   color: var(--white);
   opacity: 0.7;
